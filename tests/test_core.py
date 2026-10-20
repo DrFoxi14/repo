@@ -117,6 +117,7 @@ VALID_HEADER_CASES = [
     "chore(config)!: preserve old behavior",
     "revert(config): add fast path",
     "feat(parser)!: normalize command data",
+    "fix(parser): validate option names",
 ]
 
 
