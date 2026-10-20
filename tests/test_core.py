@@ -10,6 +10,7 @@ VALID_HEADER_CASES = [
     "fix: handle empty input",
     "docs!: improve error output",
     "style: report missing option",
+    "refactor!: support nested scope",
 ]
 
 
