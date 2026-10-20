@@ -97,6 +97,7 @@ VALID_HEADER_CASES = [
     "feat(ci)!: preserve old behavior",
     "fix(ci): add fast path",
     "docs(ci)!: normalize command data",
+    "style(ci): validate option names",
 ]
 
 
