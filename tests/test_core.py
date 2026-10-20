@@ -138,6 +138,7 @@ VALID_HEADER_CASES = [
     "ci(formatter): add fast path",
     "chore(formatter)!: normalize command data",
     "revert(formatter): validate option names",
+    "feat(release)!: reduce parser ambiguity",
 ]
 
 
