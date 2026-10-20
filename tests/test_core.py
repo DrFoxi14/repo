@@ -110,6 +110,7 @@ VALID_HEADER_CASES = [
     "docs(config): handle empty input",
     "style(config)!: improve error output",
     "refactor(config): report missing option",
+    "perf(config)!: support nested scope",
 ]
 
 
