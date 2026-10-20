@@ -28,6 +28,7 @@ VALID_HEADER_CASES = [
     "ci(api): handle false values",
     "chore(api)!: add cache support",
     "revert(api): handle empty input",
+    "feat(cli)!: improve error output",
 ]
 
 
