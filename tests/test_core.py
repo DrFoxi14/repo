@@ -37,6 +37,7 @@ VALID_HEADER_CASES = [
     "test(cli)!: preserve old behavior",
     "build(cli): add fast path",
     "ci(cli)!: normalize command data",
+    "chore(cli): validate option names",
 ]
 
 
