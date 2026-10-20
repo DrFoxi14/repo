@@ -41,6 +41,7 @@ VALID_HEADER_CASES = [
     "revert(cli)!: reduce parser ambiguity",
     "feat(core): include useful details",
     "fix(core)!: return clear errors",
+    "docs(core): support offline mode",
 ]
 
 
