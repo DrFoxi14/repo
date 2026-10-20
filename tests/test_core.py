@@ -125,6 +125,7 @@ VALID_HEADER_CASES = [
     "test(parser)!: accept custom config",
     "build(parser): retain stable order",
     "ci(parser)!: print concise help",
+    "chore(parser): handle false values",
 ]
 
 
