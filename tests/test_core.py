@@ -66,6 +66,7 @@ VALID_HEADER_CASES = [
     "docs(docs): retain stable order",
     "style(docs)!: print concise help",
     "refactor(docs): handle false values",
+    "perf(docs)!: add cache support",
 ]
 
 
