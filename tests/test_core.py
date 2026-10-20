@@ -75,6 +75,7 @@ VALID_HEADER_CASES = [
     "feat(tests)!: document examples",
     "fix(tests): cover boundary case",
     "docs(tests)!: preserve old behavior",
+    "style(tests): add fast path",
 ]
 
 
