@@ -27,6 +27,7 @@ VALID_HEADER_CASES = [
     "build(api)!: print concise help",
     "ci(api): handle false values",
     "chore(api)!: add cache support",
+    "revert(api): handle empty input",
 ]
 
 
