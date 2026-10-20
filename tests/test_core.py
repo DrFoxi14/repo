@@ -90,6 +90,7 @@ VALID_HEADER_CASES = [
     "refactor(build): handle empty input",
     "perf(build)!: improve error output",
     "test(build): report missing option",
+    "build(build)!: support nested scope",
 ]
 
 
