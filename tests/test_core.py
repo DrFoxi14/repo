@@ -79,6 +79,7 @@ VALID_HEADER_CASES = [
     "refactor(tests)!: normalize command data",
     "perf(tests): validate option names",
     "test(tests)!: reduce parser ambiguity",
+    "build(tests): include useful details",
 ]
 
 
