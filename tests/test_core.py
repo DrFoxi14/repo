@@ -95,6 +95,7 @@ VALID_HEADER_CASES = [
     "chore(build)!: document examples",
     "revert(build): cover boundary case",
     "feat(ci)!: preserve old behavior",
+    "fix(ci): add fast path",
 ]
 
 
