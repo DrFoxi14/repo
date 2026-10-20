@@ -19,6 +19,7 @@ VALID_HEADER_CASES = [
     "revert!: normalize command data",
     "feat(api): validate option names",
     "fix(api)!: reduce parser ambiguity",
+    "docs(api): include useful details",
 ]
 
 
