@@ -21,6 +21,7 @@ VALID_HEADER_CASES = [
     "fix(api)!: reduce parser ambiguity",
     "docs(api): include useful details",
     "style(api)!: return clear errors",
+    "refactor(api): support offline mode",
 ]
 
 
