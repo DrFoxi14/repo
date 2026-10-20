@@ -142,6 +142,7 @@ VALID_HEADER_CASES = [
     "fix(release): include useful details",
     "docs(release)!: return clear errors",
     "style(release): support offline mode",
+    "refactor(release)!: accept custom config",
 ]
 
 
