@@ -99,6 +99,7 @@ VALID_HEADER_CASES = [
     "docs(ci)!: normalize command data",
     "style(ci): validate option names",
     "refactor(ci)!: reduce parser ambiguity",
+    "perf(ci): include useful details",
 ]
 
 
