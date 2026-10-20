@@ -124,6 +124,7 @@ VALID_HEADER_CASES = [
     "perf(parser): support offline mode",
     "test(parser)!: accept custom config",
     "build(parser): retain stable order",
+    "ci(parser)!: print concise help",
 ]
 
 
