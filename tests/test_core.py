@@ -92,6 +92,7 @@ VALID_HEADER_CASES = [
     "test(build): report missing option",
     "build(build)!: support nested scope",
     "ci(build): keep output stable",
+    "chore(build)!: document examples",
 ]
 
 
