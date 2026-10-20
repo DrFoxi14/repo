@@ -54,6 +54,7 @@ VALID_HEADER_CASES = [
     "fix(ui): keep output stable",
     "docs(ui)!: document examples",
     "style(ui): cover boundary case",
+    "refactor(ui)!: preserve old behavior",
 ]
 
 
