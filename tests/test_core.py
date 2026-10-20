@@ -100,6 +100,7 @@ VALID_HEADER_CASES = [
     "style(ci): validate option names",
     "refactor(ci)!: reduce parser ambiguity",
     "perf(ci): include useful details",
+    "test(ci)!: return clear errors",
 ]
 
 
