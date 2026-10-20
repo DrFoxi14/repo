@@ -17,6 +17,7 @@ VALID_HEADER_CASES = [
     "ci!: preserve old behavior",
     "chore: add fast path",
     "revert!: normalize command data",
+    "feat(api): validate option names",
 ]
 
 
