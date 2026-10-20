@@ -141,6 +141,7 @@ VALID_HEADER_CASES = [
     "feat(release)!: reduce parser ambiguity",
     "fix(release): include useful details",
     "docs(release)!: return clear errors",
+    "style(release): support offline mode",
 ]
 
 
