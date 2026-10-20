@@ -145,6 +145,7 @@ VALID_HEADER_CASES = [
     "refactor(release)!: accept custom config",
     "perf(release): retain stable order",
     "test(release)!: print concise help",
+    "build(release): handle false values",
 ]
 
 
