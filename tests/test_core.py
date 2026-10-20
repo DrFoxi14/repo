@@ -61,6 +61,7 @@ VALID_HEADER_CASES = [
     "ci(ui)!: reduce parser ambiguity",
     "chore(ui): include useful details",
     "revert(ui)!: return clear errors",
+    "feat(docs): support offline mode",
 ]
 
 
