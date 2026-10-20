@@ -153,6 +153,7 @@ VALID_HEADER_CASES = [
     "fix(cache)!: support nested scope",
     "docs(cache): keep output stable",
     "style(cache)!: document examples",
+    "refactor(cache): cover boundary case",
 ]
 
 
