@@ -121,6 +121,7 @@ VALID_HEADER_CASES = [
     "docs(parser)!: reduce parser ambiguity",
     "style(parser): include useful details",
     "refactor(parser)!: return clear errors",
+    "perf(parser): support offline mode",
 ]
 
 
