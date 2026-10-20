@@ -154,6 +154,7 @@ VALID_HEADER_CASES = [
     "docs(cache): keep output stable",
     "style(cache)!: document examples",
     "refactor(cache): cover boundary case",
+    "perf(cache)!: preserve old behavior",
 ]
 
 
