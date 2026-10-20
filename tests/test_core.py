@@ -52,6 +52,7 @@ VALID_HEADER_CASES = [
     "revert(core): report missing option",
     "feat(ui)!: support nested scope",
     "fix(ui): keep output stable",
+    "docs(ui)!: document examples",
 ]
 
 
