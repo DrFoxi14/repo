@@ -5,6 +5,18 @@ import unittest
 from commitpp import build_header, parse_header, validate_header
 
 
+VALID_HEADER_CASES = [
+]
+
+
+class RegressionVectorTests(unittest.TestCase):
+    def test_valid_headers_round_trip(self):
+        for header in VALID_HEADER_CASES:
+            with self.subTest(header=header):
+                self.assertEqual(parse_header(header).render(), header)
+                self.assertEqual(validate_header(header), [])
+
+
 class ParseHeaderTests(unittest.TestCase):
     def test_parses_simple_header(self):
         self.assertEqual(parse_header("feat: add search").type, "feat")
@@ -24,7 +36,7 @@ class ParseHeaderTests(unittest.TestCase):
             parse_header("unknown: add a thing")
 
     def test_rejects_multiline_header(self):
-        self.assertTrue(validate_header("feat: add search\nbody"))
+        self.assertTrue(validate_header("feat: add search\\nbody"))
 
     def test_rejects_missing_description(self):
         self.assertTrue(validate_header("feat: "))
