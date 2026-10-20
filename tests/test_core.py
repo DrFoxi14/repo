@@ -8,6 +8,7 @@ from commitpp import build_header, parse_header, validate_header
 VALID_HEADER_CASES = [
     "feat!: add cache support",
     "fix: handle empty input",
+    "docs!: improve error output",
 ]
 
 
