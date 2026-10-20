@@ -72,6 +72,7 @@ VALID_HEADER_CASES = [
     "ci(docs): report missing option",
     "chore(docs)!: support nested scope",
     "revert(docs): keep output stable",
+    "feat(tests)!: document examples",
 ]
 
 
