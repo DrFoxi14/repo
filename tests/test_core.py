@@ -50,6 +50,7 @@ VALID_HEADER_CASES = [
     "ci(core): handle empty input",
     "chore(core)!: improve error output",
     "revert(core): report missing option",
+    "feat(ui)!: support nested scope",
 ]
 
 
