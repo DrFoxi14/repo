@@ -24,6 +24,7 @@ VALID_HEADER_CASES = [
     "refactor(api): support offline mode",
     "perf(api)!: accept custom config",
     "test(api): retain stable order",
+    "build(api)!: print concise help",
 ]
 
 
