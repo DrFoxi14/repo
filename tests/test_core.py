@@ -80,6 +80,7 @@ VALID_HEADER_CASES = [
     "perf(tests): validate option names",
     "test(tests)!: reduce parser ambiguity",
     "build(tests): include useful details",
+    "ci(tests)!: return clear errors",
 ]
 
 
