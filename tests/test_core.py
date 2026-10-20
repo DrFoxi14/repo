@@ -84,6 +84,7 @@ VALID_HEADER_CASES = [
     "chore(tests): support offline mode",
     "revert(tests)!: accept custom config",
     "feat(build): retain stable order",
+    "fix(build)!: print concise help",
 ]
 
 
