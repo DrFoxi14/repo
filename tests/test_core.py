@@ -147,6 +147,7 @@ VALID_HEADER_CASES = [
     "test(release)!: print concise help",
     "build(release): handle false values",
     "ci(release)!: add cache support",
+    "chore(release): handle empty input",
 ]
 
 
