@@ -55,6 +55,7 @@ VALID_HEADER_CASES = [
     "docs(ui)!: document examples",
     "style(ui): cover boundary case",
     "refactor(ui)!: preserve old behavior",
+    "perf(ui): add fast path",
 ]
 
 
