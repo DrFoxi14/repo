@@ -58,6 +58,7 @@ VALID_HEADER_CASES = [
     "perf(ui): add fast path",
     "test(ui)!: normalize command data",
     "build(ui): validate option names",
+    "ci(ui)!: reduce parser ambiguity",
 ]
 
 
