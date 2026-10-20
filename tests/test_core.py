@@ -16,6 +16,7 @@ VALID_HEADER_CASES = [
     "build: cover boundary case",
     "ci!: preserve old behavior",
     "chore: add fast path",
+    "revert!: normalize command data",
 ]
 
 
