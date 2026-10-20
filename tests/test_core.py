@@ -148,6 +148,7 @@ VALID_HEADER_CASES = [
     "build(release): handle false values",
     "ci(release)!: add cache support",
     "chore(release): handle empty input",
+    "revert(release)!: improve error output",
 ]
 
 
