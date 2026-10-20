@@ -129,6 +129,7 @@ VALID_HEADER_CASES = [
     "revert(parser)!: add cache support",
     "feat(formatter): handle empty input",
     "fix(formatter)!: improve error output",
+    "docs(formatter): report missing option",
 ]
 
 
