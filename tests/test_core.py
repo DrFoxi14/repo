@@ -59,6 +59,7 @@ VALID_HEADER_CASES = [
     "test(ui)!: normalize command data",
     "build(ui): validate option names",
     "ci(ui)!: reduce parser ambiguity",
+    "chore(ui): include useful details",
 ]
 
 
