@@ -150,6 +150,7 @@ VALID_HEADER_CASES = [
     "chore(release): handle empty input",
     "revert(release)!: improve error output",
     "feat(cache): report missing option",
+    "fix(cache)!: support nested scope",
 ]
 
 
