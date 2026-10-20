@@ -98,6 +98,7 @@ VALID_HEADER_CASES = [
     "fix(ci): add fast path",
     "docs(ci)!: normalize command data",
     "style(ci): validate option names",
+    "refactor(ci)!: reduce parser ambiguity",
 ]
 
 
