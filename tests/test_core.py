@@ -118,6 +118,7 @@ VALID_HEADER_CASES = [
     "revert(config): add fast path",
     "feat(parser)!: normalize command data",
     "fix(parser): validate option names",
+    "docs(parser)!: reduce parser ambiguity",
 ]
 
 
