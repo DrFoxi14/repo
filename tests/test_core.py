@@ -128,6 +128,7 @@ VALID_HEADER_CASES = [
     "chore(parser): handle false values",
     "revert(parser)!: add cache support",
     "feat(formatter): handle empty input",
+    "fix(formatter)!: improve error output",
 ]
 
 
