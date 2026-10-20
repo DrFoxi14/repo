@@ -38,6 +38,7 @@ VALID_HEADER_CASES = [
     "build(cli): add fast path",
     "ci(cli)!: normalize command data",
     "chore(cli): validate option names",
+    "revert(cli)!: reduce parser ambiguity",
 ]
 
 
