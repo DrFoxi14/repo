@@ -85,6 +85,7 @@ VALID_HEADER_CASES = [
     "revert(tests)!: accept custom config",
     "feat(build): retain stable order",
     "fix(build)!: print concise help",
+    "docs(build): handle false values",
 ]
 
 
