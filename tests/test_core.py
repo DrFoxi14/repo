@@ -115,6 +115,7 @@ VALID_HEADER_CASES = [
     "build(config)!: document examples",
     "ci(config): cover boundary case",
     "chore(config)!: preserve old behavior",
+    "revert(config): add fast path",
 ]
 
 
