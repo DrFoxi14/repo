@@ -101,6 +101,7 @@ VALID_HEADER_CASES = [
     "refactor(ci)!: reduce parser ambiguity",
     "perf(ci): include useful details",
     "test(ci)!: return clear errors",
+    "build(ci): support offline mode",
 ]
 
 
