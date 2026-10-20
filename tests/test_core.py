@@ -149,6 +149,7 @@ VALID_HEADER_CASES = [
     "ci(release)!: add cache support",
     "chore(release): handle empty input",
     "revert(release)!: improve error output",
+    "feat(cache): report missing option",
 ]
 
 
