@@ -108,6 +108,7 @@ VALID_HEADER_CASES = [
     "feat(config): handle false values",
     "fix(config)!: add cache support",
     "docs(config): handle empty input",
+    "style(config)!: improve error output",
 ]
 
 
