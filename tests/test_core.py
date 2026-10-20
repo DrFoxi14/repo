@@ -132,6 +132,7 @@ VALID_HEADER_CASES = [
     "docs(formatter): report missing option",
     "style(formatter)!: support nested scope",
     "refactor(formatter): keep output stable",
+    "perf(formatter)!: document examples",
 ]
 
 
