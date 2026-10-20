@@ -105,6 +105,7 @@ VALID_HEADER_CASES = [
     "ci(ci)!: accept custom config",
     "chore(ci): retain stable order",
     "revert(ci)!: print concise help",
+    "feat(config): handle false values",
 ]
 
 
