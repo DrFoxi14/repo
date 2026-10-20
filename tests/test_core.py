@@ -91,6 +91,7 @@ VALID_HEADER_CASES = [
     "perf(build)!: improve error output",
     "test(build): report missing option",
     "build(build)!: support nested scope",
+    "ci(build): keep output stable",
 ]
 
 
