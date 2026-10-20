@@ -78,6 +78,7 @@ VALID_HEADER_CASES = [
     "style(tests): add fast path",
     "refactor(tests)!: normalize command data",
     "perf(tests): validate option names",
+    "test(tests)!: reduce parser ambiguity",
 ]
 
 
