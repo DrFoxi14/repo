@@ -120,6 +120,7 @@ VALID_HEADER_CASES = [
     "fix(parser): validate option names",
     "docs(parser)!: reduce parser ambiguity",
     "style(parser): include useful details",
+    "refactor(parser)!: return clear errors",
 ]
 
 
