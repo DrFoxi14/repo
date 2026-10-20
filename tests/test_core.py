@@ -93,6 +93,7 @@ VALID_HEADER_CASES = [
     "build(build)!: support nested scope",
     "ci(build): keep output stable",
     "chore(build)!: document examples",
+    "revert(build): cover boundary case",
 ]
 
 
