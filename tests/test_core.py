@@ -65,6 +65,7 @@ VALID_HEADER_CASES = [
     "fix(docs)!: accept custom config",
     "docs(docs): retain stable order",
     "style(docs)!: print concise help",
+    "refactor(docs): handle false values",
 ]
 
 
