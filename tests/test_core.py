@@ -140,6 +140,7 @@ VALID_HEADER_CASES = [
     "revert(formatter): validate option names",
     "feat(release)!: reduce parser ambiguity",
     "fix(release): include useful details",
+    "docs(release)!: return clear errors",
 ]
 
 
