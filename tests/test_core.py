@@ -56,6 +56,7 @@ VALID_HEADER_CASES = [
     "style(ui): cover boundary case",
     "refactor(ui)!: preserve old behavior",
     "perf(ui): add fast path",
+    "test(ui)!: normalize command data",
 ]
 
 
