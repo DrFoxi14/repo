@@ -146,6 +146,7 @@ VALID_HEADER_CASES = [
     "perf(release): retain stable order",
     "test(release)!: print concise help",
     "build(release): handle false values",
+    "ci(release)!: add cache support",
 ]
 
 
