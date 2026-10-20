@@ -13,6 +13,7 @@ VALID_HEADER_CASES = [
     "refactor!: support nested scope",
     "perf: keep output stable",
     "test!: document examples",
+    "build: cover boundary case",
 ]
 
 
