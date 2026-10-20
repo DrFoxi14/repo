@@ -31,6 +31,7 @@ VALID_HEADER_CASES = [
     "feat(cli)!: improve error output",
     "fix(cli): report missing option",
     "docs(cli)!: support nested scope",
+    "style(cli): keep output stable",
 ]
 
 
