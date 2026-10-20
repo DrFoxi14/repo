@@ -35,6 +35,7 @@ VALID_HEADER_CASES = [
     "refactor(cli)!: document examples",
     "perf(cli): cover boundary case",
     "test(cli)!: preserve old behavior",
+    "build(cli): add fast path",
 ]
 
 
