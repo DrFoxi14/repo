@@ -104,6 +104,7 @@ VALID_HEADER_CASES = [
     "build(ci): support offline mode",
     "ci(ci)!: accept custom config",
     "chore(ci): retain stable order",
+    "revert(ci)!: print concise help",
 ]
 
 
