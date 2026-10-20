@@ -76,6 +76,7 @@ VALID_HEADER_CASES = [
     "fix(tests): cover boundary case",
     "docs(tests)!: preserve old behavior",
     "style(tests): add fast path",
+    "refactor(tests)!: normalize command data",
 ]
 
 
