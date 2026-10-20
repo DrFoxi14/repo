@@ -40,6 +40,7 @@ VALID_HEADER_CASES = [
     "chore(cli): validate option names",
     "revert(cli)!: reduce parser ambiguity",
     "feat(core): include useful details",
+    "fix(core)!: return clear errors",
 ]
 
 
