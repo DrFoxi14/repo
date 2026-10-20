@@ -14,6 +14,7 @@ VALID_HEADER_CASES = [
     "perf: keep output stable",
     "test!: document examples",
     "build: cover boundary case",
+    "ci!: preserve old behavior",
 ]
 
 
