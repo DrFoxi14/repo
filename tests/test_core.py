@@ -68,6 +68,7 @@ VALID_HEADER_CASES = [
     "refactor(docs): handle false values",
     "perf(docs)!: add cache support",
     "test(docs): handle empty input",
+    "build(docs)!: improve error output",
 ]
 
 
