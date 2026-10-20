@@ -53,6 +53,7 @@ VALID_HEADER_CASES = [
     "feat(ui)!: support nested scope",
     "fix(ui): keep output stable",
     "docs(ui)!: document examples",
+    "style(ui): cover boundary case",
 ]
 
 
