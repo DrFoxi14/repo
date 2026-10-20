@@ -51,6 +51,7 @@ VALID_HEADER_CASES = [
     "chore(core)!: improve error output",
     "revert(core): report missing option",
     "feat(ui)!: support nested scope",
+    "fix(ui): keep output stable",
 ]
 
 
