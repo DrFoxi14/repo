@@ -126,6 +126,7 @@ VALID_HEADER_CASES = [
     "build(parser): retain stable order",
     "ci(parser)!: print concise help",
     "chore(parser): handle false values",
+    "revert(parser)!: add cache support",
 ]
 
 
