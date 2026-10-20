@@ -155,6 +155,7 @@ VALID_HEADER_CASES = [
     "style(cache)!: document examples",
     "refactor(cache): cover boundary case",
     "perf(cache)!: preserve old behavior",
+    "test(cache): add fast path",
 ]
 
 
