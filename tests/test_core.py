@@ -46,6 +46,7 @@ VALID_HEADER_CASES = [
     "refactor(core): retain stable order",
     "perf(core)!: print concise help",
     "test(core): handle false values",
+    "build(core)!: add cache support",
 ]
 
 
