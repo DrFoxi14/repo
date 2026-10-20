@@ -151,6 +151,7 @@ VALID_HEADER_CASES = [
     "revert(release)!: improve error output",
     "feat(cache): report missing option",
     "fix(cache)!: support nested scope",
+    "docs(cache): keep output stable",
 ]
 
 
