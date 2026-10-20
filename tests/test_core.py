@@ -74,6 +74,7 @@ VALID_HEADER_CASES = [
     "revert(docs): keep output stable",
     "feat(tests)!: document examples",
     "fix(tests): cover boundary case",
+    "docs(tests)!: preserve old behavior",
 ]
 
 
