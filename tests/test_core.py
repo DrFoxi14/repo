@@ -94,6 +94,7 @@ VALID_HEADER_CASES = [
     "ci(build): keep output stable",
     "chore(build)!: document examples",
     "revert(build): cover boundary case",
+    "feat(ci)!: preserve old behavior",
 ]
 
 
