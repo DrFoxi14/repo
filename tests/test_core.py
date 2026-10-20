@@ -43,6 +43,7 @@ VALID_HEADER_CASES = [
     "fix(core)!: return clear errors",
     "docs(core): support offline mode",
     "style(core)!: accept custom config",
+    "refactor(core): retain stable order",
 ]
 
 
