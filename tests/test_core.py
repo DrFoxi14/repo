@@ -77,6 +77,7 @@ VALID_HEADER_CASES = [
     "docs(tests)!: preserve old behavior",
     "style(tests): add fast path",
     "refactor(tests)!: normalize command data",
+    "perf(tests): validate option names",
 ]
 
 
