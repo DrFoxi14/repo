@@ -113,6 +113,7 @@ VALID_HEADER_CASES = [
     "perf(config)!: support nested scope",
     "test(config): keep output stable",
     "build(config)!: document examples",
+    "ci(config): cover boundary case",
 ]
 
 
