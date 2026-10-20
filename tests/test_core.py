@@ -116,6 +116,7 @@ VALID_HEADER_CASES = [
     "ci(config): cover boundary case",
     "chore(config)!: preserve old behavior",
     "revert(config): add fast path",
+    "feat(parser)!: normalize command data",
 ]
 
 
