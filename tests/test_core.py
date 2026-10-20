@@ -96,6 +96,7 @@ VALID_HEADER_CASES = [
     "revert(build): cover boundary case",
     "feat(ci)!: preserve old behavior",
     "fix(ci): add fast path",
+    "docs(ci)!: normalize command data",
 ]
 
 
