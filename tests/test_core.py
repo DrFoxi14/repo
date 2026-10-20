@@ -45,6 +45,7 @@ VALID_HEADER_CASES = [
     "style(core)!: accept custom config",
     "refactor(core): retain stable order",
     "perf(core)!: print concise help",
+    "test(core): handle false values",
 ]
 
 
