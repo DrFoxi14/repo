@@ -71,6 +71,7 @@ VALID_HEADER_CASES = [
     "build(docs)!: improve error output",
     "ci(docs): report missing option",
     "chore(docs)!: support nested scope",
+    "revert(docs): keep output stable",
 ]
 
 
