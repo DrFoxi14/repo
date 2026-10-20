@@ -12,6 +12,7 @@ VALID_HEADER_CASES = [
     "style: report missing option",
     "refactor!: support nested scope",
     "perf: keep output stable",
+    "test!: document examples",
 ]
 
 
