@@ -64,6 +64,7 @@ VALID_HEADER_CASES = [
     "feat(docs): support offline mode",
     "fix(docs)!: accept custom config",
     "docs(docs): retain stable order",
+    "style(docs)!: print concise help",
 ]
 
 
