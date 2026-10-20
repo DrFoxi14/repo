@@ -139,6 +139,7 @@ VALID_HEADER_CASES = [
     "chore(formatter)!: normalize command data",
     "revert(formatter): validate option names",
     "feat(release)!: reduce parser ambiguity",
+    "fix(release): include useful details",
 ]
 
 
