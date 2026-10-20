@@ -60,6 +60,7 @@ VALID_HEADER_CASES = [
     "build(ui): validate option names",
     "ci(ui)!: reduce parser ambiguity",
     "chore(ui): include useful details",
+    "revert(ui)!: return clear errors",
 ]
 
 
