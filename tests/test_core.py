@@ -39,6 +39,7 @@ VALID_HEADER_CASES = [
     "ci(cli)!: normalize command data",
     "chore(cli): validate option names",
     "revert(cli)!: reduce parser ambiguity",
+    "feat(core): include useful details",
 ]
 
 
