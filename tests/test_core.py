@@ -86,6 +86,7 @@ VALID_HEADER_CASES = [
     "feat(build): retain stable order",
     "fix(build)!: print concise help",
     "docs(build): handle false values",
+    "style(build)!: add cache support",
 ]
 
 
