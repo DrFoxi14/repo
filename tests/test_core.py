@@ -114,6 +114,7 @@ VALID_HEADER_CASES = [
     "test(config): keep output stable",
     "build(config)!: document examples",
     "ci(config): cover boundary case",
+    "chore(config)!: preserve old behavior",
 ]
 
 
