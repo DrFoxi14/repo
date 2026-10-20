@@ -48,6 +48,7 @@ VALID_HEADER_CASES = [
     "test(core): handle false values",
     "build(core)!: add cache support",
     "ci(core): handle empty input",
+    "chore(core)!: improve error output",
 ]
 
 
