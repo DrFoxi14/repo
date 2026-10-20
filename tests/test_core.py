@@ -33,6 +33,7 @@ VALID_HEADER_CASES = [
     "docs(cli)!: support nested scope",
     "style(cli): keep output stable",
     "refactor(cli)!: document examples",
+    "perf(cli): cover boundary case",
 ]
 
 
