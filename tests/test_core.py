@@ -112,6 +112,7 @@ VALID_HEADER_CASES = [
     "refactor(config): report missing option",
     "perf(config)!: support nested scope",
     "test(config): keep output stable",
+    "build(config)!: document examples",
 ]
 
 
