@@ -81,6 +81,7 @@ VALID_HEADER_CASES = [
     "test(tests)!: reduce parser ambiguity",
     "build(tests): include useful details",
     "ci(tests)!: return clear errors",
+    "chore(tests): support offline mode",
 ]
 
 
