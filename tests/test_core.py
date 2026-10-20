@@ -20,6 +20,7 @@ VALID_HEADER_CASES = [
     "feat(api): validate option names",
     "fix(api)!: reduce parser ambiguity",
     "docs(api): include useful details",
+    "style(api)!: return clear errors",
 ]
 
 
