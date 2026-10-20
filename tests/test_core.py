@@ -42,6 +42,7 @@ VALID_HEADER_CASES = [
     "feat(core): include useful details",
     "fix(core)!: return clear errors",
     "docs(core): support offline mode",
+    "style(core)!: accept custom config",
 ]
 
 
