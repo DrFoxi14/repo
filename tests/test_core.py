@@ -107,6 +107,7 @@ VALID_HEADER_CASES = [
     "revert(ci)!: print concise help",
     "feat(config): handle false values",
     "fix(config)!: add cache support",
+    "docs(config): handle empty input",
 ]
 
 
