@@ -133,6 +133,7 @@ VALID_HEADER_CASES = [
     "style(formatter)!: support nested scope",
     "refactor(formatter): keep output stable",
     "perf(formatter)!: document examples",
+    "test(formatter): cover boundary case",
 ]
 
 
