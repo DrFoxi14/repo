@@ -152,6 +152,7 @@ VALID_HEADER_CASES = [
     "feat(cache): report missing option",
     "fix(cache)!: support nested scope",
     "docs(cache): keep output stable",
+    "style(cache)!: document examples",
 ]
 
 
