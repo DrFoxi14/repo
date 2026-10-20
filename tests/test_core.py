@@ -9,6 +9,7 @@ VALID_HEADER_CASES = [
     "feat!: add cache support",
     "fix: handle empty input",
     "docs!: improve error output",
+    "style: report missing option",
 ]
 
 
