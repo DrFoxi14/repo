@@ -89,6 +89,7 @@ VALID_HEADER_CASES = [
     "style(build)!: add cache support",
     "refactor(build): handle empty input",
     "perf(build)!: improve error output",
+    "test(build): report missing option",
 ]
 
 
