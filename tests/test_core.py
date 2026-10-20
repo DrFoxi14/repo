@@ -30,6 +30,7 @@ VALID_HEADER_CASES = [
     "revert(api): handle empty input",
     "feat(cli)!: improve error output",
     "fix(cli): report missing option",
+    "docs(cli)!: support nested scope",
 ]
 
 
