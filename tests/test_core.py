@@ -130,6 +130,7 @@ VALID_HEADER_CASES = [
     "feat(formatter): handle empty input",
     "fix(formatter)!: improve error output",
     "docs(formatter): report missing option",
+    "style(formatter)!: support nested scope",
 ]
 
 
