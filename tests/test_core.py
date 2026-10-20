@@ -69,6 +69,7 @@ VALID_HEADER_CASES = [
     "perf(docs)!: add cache support",
     "test(docs): handle empty input",
     "build(docs)!: improve error output",
+    "ci(docs): report missing option",
 ]
 
 
