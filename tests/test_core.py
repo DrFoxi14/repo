@@ -109,6 +109,7 @@ VALID_HEADER_CASES = [
     "fix(config)!: add cache support",
     "docs(config): handle empty input",
     "style(config)!: improve error output",
+    "refactor(config): report missing option",
 ]
 
 
