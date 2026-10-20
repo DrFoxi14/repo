@@ -135,6 +135,7 @@ VALID_HEADER_CASES = [
     "perf(formatter)!: document examples",
     "test(formatter): cover boundary case",
     "build(formatter)!: preserve old behavior",
+    "ci(formatter): add fast path",
 ]
 
 
