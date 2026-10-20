@@ -73,6 +73,7 @@ VALID_HEADER_CASES = [
     "chore(docs)!: support nested scope",
     "revert(docs): keep output stable",
     "feat(tests)!: document examples",
+    "fix(tests): cover boundary case",
 ]
 
 
