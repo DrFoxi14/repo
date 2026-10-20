@@ -25,6 +25,7 @@ VALID_HEADER_CASES = [
     "perf(api)!: accept custom config",
     "test(api): retain stable order",
     "build(api)!: print concise help",
+    "ci(api): handle false values",
 ]
 
 
