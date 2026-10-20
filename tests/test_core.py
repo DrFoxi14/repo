@@ -15,6 +15,7 @@ VALID_HEADER_CASES = [
     "test!: document examples",
     "build: cover boundary case",
     "ci!: preserve old behavior",
+    "chore: add fast path",
 ]
 
 
