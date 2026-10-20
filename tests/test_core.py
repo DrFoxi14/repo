@@ -36,6 +36,7 @@ VALID_HEADER_CASES = [
     "perf(cli): cover boundary case",
     "test(cli)!: preserve old behavior",
     "build(cli): add fast path",
+    "ci(cli)!: normalize command data",
 ]
 
 
