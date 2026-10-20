@@ -134,6 +134,7 @@ VALID_HEADER_CASES = [
     "refactor(formatter): keep output stable",
     "perf(formatter)!: document examples",
     "test(formatter): cover boundary case",
+    "build(formatter)!: preserve old behavior",
 ]
 
 
