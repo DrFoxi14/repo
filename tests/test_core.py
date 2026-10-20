@@ -18,6 +18,7 @@ VALID_HEADER_CASES = [
     "chore: add fast path",
     "revert!: normalize command data",
     "feat(api): validate option names",
+    "fix(api)!: reduce parser ambiguity",
 ]
 
 
