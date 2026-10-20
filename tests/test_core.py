@@ -34,6 +34,7 @@ VALID_HEADER_CASES = [
     "style(cli): keep output stable",
     "refactor(cli)!: document examples",
     "perf(cli): cover boundary case",
+    "test(cli)!: preserve old behavior",
 ]
 
 
