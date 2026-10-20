@@ -70,6 +70,7 @@ VALID_HEADER_CASES = [
     "test(docs): handle empty input",
     "build(docs)!: improve error output",
     "ci(docs): report missing option",
+    "chore(docs)!: support nested scope",
 ]
 
 
